@@ -1,0 +1,19 @@
+{
+  "name": "whattimeapi",
+  "version": "1.0.0",
+  "description": "Returns the time",
+  "main": "index.js",
+  "repository": "git@github.com:amyleesalesforce/whattimeapi.git",
+  "author": "Amy Lee <amy.lee@salesforce.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
